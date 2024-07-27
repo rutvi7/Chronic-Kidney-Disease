@@ -10,6 +10,9 @@ This project aims to develop a predictive model for Chronic Kidney Disease (CKD)
 Problem Description
 Chronic Kidney Disease is a progressive condition where the kidneys lose function over time, often without noticeable symptoms in the early stages. The dataset used in this project contains medical records of 400 patients with 26 features including age, blood pressure, various lab test results, and specific conditions or observations. The primary variable of interest is whether a patient has CKD.
 
+![image](https://github.com/user-attachments/assets/edc0efba-87a9-418e-8c01-55df1c94ebe2)
+
+
 Methodology
 The project follows the CRISP-DM framework:
 1. Business Understanding: Define objectives for predicting CKD and understand the business requirements.
